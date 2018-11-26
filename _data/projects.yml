@@ -1,0 +1,64 @@
+- name: Data, Responsibly
+  photo: responsibly_project.png
+  info: Fairness, neutrality and transparency in data
+  description: If not used responsibly, big data technology can propel economic inequality, destabilize global markets and affirm systemic bias. While the potential opportunity of big data techniques is well accepted, the necessity of using these techniques responsibly should be discussed. In the society we envision, data and data analysis are fair, transparent and available equally to all.
+  url: dataresponsibly.github.io
+  number_pubs: 3
+  pub1:
+    url: https://arxiv.org/abs/1804.07890
+    display: SIGMOD (demo) 2018
+  pub2:
+    url: http://dl.acm.org/citation.cfm?doid=3085504.3091117
+    display: SSDBM 2017
+  pub3:
+    url: http://dl.acm.org/citation.cfm?doid=3085504.3085530
+    display: SSDBM 2017
+  number_funding: 1
+  funding1: "NSF BIGDATA: F: Collaborative Research: Managing Preference Data, 09/2017 - , Julia Stoyanovich, Bill Howe, HV Jagadish, Gerome Miklau"
+
+- name: Portal
+  photo: Apple_Evolution.png
+  info: A query language for evolving graphs
+  description: Graphs are used to represent a plethora of phenomena, from the Web and social networks, to biological pathways, to semantic knowledge bases. Arguably the most interesting and important questions one can ask about graphs have to do with their evolution. Which Web pages are showing an increasing popularity trend? How does influence propagate in social networks? How does knowledge evolve? Much research and engineering effort today goes into developing sophisticated graph analytics and their efficient implementations, both stand-alone and in scope of data processing platforms. Yet, systematic support for scalable querying and analytics over evolving graphs still lacks. In this project we aim to build a system that fills this gap.
+  url: http://portaldb.github.io
+  number_pubs: 3
+  pub1:
+    url: https://www.cs.drexel.edu/~julia/documents/edbt17
+    display: EDBT 2017
+  pub2:
+    url: http://arxiv.org/abs/1602.00773
+    display: SIGMOD 2017
+  pub3:
+    url: https://dl.acm.org/citation.cfm?id=2889290
+    display: WWW 2016
+  number_funding: 1
+  funding1: "NSF CAREER: Querying evolving graphs, 3/1/2018 - , (PI: Stoyanovich)"
+
+- name: "DB4Pref: Managing Preference Data"
+  photo: preference_data.png
+  info: Streamline the management and analysis of preference data
+  description: Preferences are orders among a collection of items attributed to a population of judges. Preference data comes in a variety of forms, such as ranked lists and pairwise comparisons, and is ubiquitous in a plethora of applications across different domains. Over the past decade, there has been a sharp increase in the volume of preference data, in the diversity of applications that use it, and in the richness of preference data analysis methods. Examples of applications include rank aggregation in genomic data analysis, management of votes in elections and recommendation systems in e-commerce. In our work we look at two complementary aspects of preference management. In the first, we are enriching the relational database model with extensions that are specialized for handling preference data. In the second, we are developing novel analytics that are geared towards incomplete preferences.
+  url: http://db4pref.com/
+  number_pubs: 5
+  pub1:
+    url: https://www.cs.drexel.edu/~julia/documents/webdb15.pdf
+    display: WebDB 2015
+  pub2:
+    url: https://www.cs.drexel.edu/~julia/documents/pvldb14
+    display: PVLDB 2014
+  pub3:
+    url: https://www.cs.drexel.edu/~julia/documents/cidr13
+    display: CIDR 2013
+  pub4:
+    url: https://www.cs.drexel.edu/~julia/documents/barac
+    display: EDBT 2011
+  pub5:
+    url: https://www.cs.drexel.edu/~julia/documents/cikm_0218
+    display: CIKM 2009
+  number_funding: 3
+  funding1: "NSF Grant No. 1464327 Managing Preference Data, 5/1/2015 - 4/30/2017, (PI: Stoyanovich)"
+  funding2: "BSF Grant No. 2014391 Aggregation Methods for Partial Preferences, 9/1/2015 - 8/31/2017, (US PI: Stoyanovich, Israel PI: Kimelfeld)"
+  funding3: "NSF Grant No. 1539856 Aggregation Methods for Partial Preferences (supplements BSF Grant No. 2014391), 9/1/2015 - 8/31/2017, (PI: Stoyanovich)"
+
+
+

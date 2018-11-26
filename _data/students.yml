@@ -1,0 +1,38 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: <a href="https://keyang0923.github.io">Ke Yang</a>
+  photo: Yang.jpg
+  info: Ph.D. student
+  email: ky630@nyu.edu
+  org: New York University
+  number_educ: 1
+  education1:
+
+- name: <a href="https://haoyueping.github.io">Haoyue Ping</a>
+  photo: Ping.jpg
+  info: Ph.D. student
+  email: hp1326@nyu.edu
+  org: New York University
+  number_educ: 1
+  education1:
+
+- name: Amir Pouya Aghasadeghi
+  photo: Amir.jpg
+  info: Ph.D. student
+  email: apa374@nyu.edu
+  org: New York University
+  number_educ: 1
+  education1:
+
+- name: This could be you!
+  photo: look_forward.jpg
+  info: Contact us for more info
+  email: stoyanovich@nyu.edu

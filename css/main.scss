@@ -1,0 +1,70 @@
+---
+---
+    
+@import "bootstrap";
+
+body {
+	padding-top: 10px;
+}
+
+figcaption {
+    text-align: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
+
+
+/* Home page*/
+
+#newsid p {
+	text-align: left;
+}
+
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px; /* or 950px */
+}
+
+#header_img {
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+}
+
+
+
+@media (min-width: 768px) {
+  #header_img {
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+  }
+}
+
+
+/* People & Publications */
+#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#gridid .row { margin-bottom: 24px; }
+pubtit {
+	font-weight: bold;
+}
+
+#gridid {
+  position: relative;
+  padding-top: 5rem;
+}
+@media (min-width: 768px) {
+  #gridid {
+    position: relative;
+    padding-top: 5rem;
+  }
+}

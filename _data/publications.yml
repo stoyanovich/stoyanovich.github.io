@@ -1,0 +1,360 @@
+- title: "On Obtaining Stable Rankings"
+  authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
+  link:
+    url: https://arxiv.org/abs/1804.10990
+    display:  "CoRR abs/1804.10990 (2018)"
+
+- title: "Panel: A Debate on Data and Algorithmic Ethics"
+  authors: Julia Stoyanovich, Bill Howe, H. V. Jagadish, Gerome Miklau
+  link:
+    url: https://dl.acm.org/citation.cfm?id=3275616
+    display:  "PVLDB 11(12): 2165-2167 (2018)"
+
+- title: "Research Directions for Principles of Data Management (Dagstuhl Perspectives Workshop 16151)"
+  authors: 	Serge Abiteboul, Marcelo Arenas, Pablo Barceló, Meghyn Bienvenu, Diego Calvanese, Claire David, Richard Hull, Eyke Hüllermeier, Benny Kimelfeld, Leonid Libkin, Wim Martens, Tova Milo, Filip Murlak, Frank Neven, Magdalena Ortiz, Thomas Schwentick, Julia Stoyanovich, Jianwen Su, Dan Suciu, Victor Vianu, Ke Yi
+  link:
+    url: https://arxiv.org/abs/1701.09007
+    display:  "Dagstuhl Manifestos 7(1): 1-29 (2018)"
+
+- title: "A Technical Research Agenda in Data Ethics and Responsible Data Management"
+  authors: Julia Stoyanovich, Bill Howe, and HV Jagadish
+  link:
+    url: https://dataresponsibly.github.io/documents/p1635-stoyanovich
+    display: SIGMOD, 2018
+
+- title: "A Query Engine for Probabilistic Preferences"
+  authors: Uzi Cohen, Batya Kenig, Haoyue Ping, Benny Kimelfeld, and Julia Stoyanovich
+  link:
+    url: "https://dl.acm.org/citation.cfm?id=3196923"
+    display: SIGMOD, 2018
+
+- title: A Nutritional Label for Rankings
+  image: ranking_facts.png
+  description: A Web-based application that generates a "nutritional label" for rankings. Ranking Facts is made up of a collection of visual widgets that implement our latest research results on fairness, stability, and transparency for rankings, and that communicate details of the ranking methodology, or of the output, to the end user.
+  authors: Ke Yang, Julia Stoyanovich, Abolfazl Asudeh, Bill Howe, HV Jagadish and Gerome Miklau
+  link:
+    url: https://arxiv.org/abs/1804.07890
+    display: SIGMOD (demo), 2018
+  highlight: 1
+
+- title: "Online Set Selection with Fairness and Diversity Constraints"
+  authors: Julia Stoyanovich, Ke Yang and HV Jagadish
+  link:
+    url: http://openproceedings.org/2018/conf/edbt/paper-98
+    display: EDBT, 2018
+
+- title: "Computational Social Choice Meets Databases"
+  authors: Benny Kimelfeld, Phokion Kolaitis and Julia Stoyanovich
+  link:
+    url: https://arxiv.org/abs/1805.04156
+    display: IJCAI, 2018
+
+- title: "Probabilistic inference over repeated insertion models"
+  authors: Batya Kenig, Lovro Ilijasic, Haoyue Ping, Benny Kimelfeld, and Julia Stoyanovich
+  link:
+    url: https://stoyanovich.github.io/documents/aaai2018
+    display: AAAI, 2018
+
+- title: "Generating Evolving Property Graphs with Attribute-Aware Preferential Attachment"
+  authors: Amir Aghasadeghi and Julia Stoyanovich
+  link:
+    url: https://dl.acm.org/citation.cfm?id=3209954
+    display:  DBTest, 2018
+
+- title: "MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets"
+  authors: Luke Rodriguez, Babak Salimi, Haoyue Ping, Julia Stoyanovich and Bill Howe
+  link:
+    url: https://arxiv.org/abs/1808.07151
+    display: BiDU, 2018
+
+- title: "Portal: A Query Language for Evolving Graphs"
+  authors: Vera Zaychik Moffitt and Julia Stoyanovich
+  link:
+    url: https://arxiv.org/abs/1602.00773
+    display:  SIGMOD, 2017
+
+- title: "Querying probabilistic preferences in databases"
+  authors: Batya Kenig, Benny Kimelfeld, Haoyue Ping and Julia Stoyanovich
+  link:
+    url: "http://dl.acm.org/citation.cfm?doid=3034786.3056111"
+    display:  PODS, 2017
+
+- title: "Towards sequenced semantics for evolving graphs"
+  authors: Vera Z. Moffitt and Julia Stoyanovich
+  link:
+    url: https://stoyanovich.github.io/documents/edbt17
+    display: EDBT, 2017
+
+- title: "DataSynthesizer: Privacy-preserving synthetic datasets"
+  image: synthesizer.png
+  description: To facilitate collaboration over sensitive data, we present DataSynthesizer, a tool that takes a sensitive dataset as input and generates a structurally and statistically similar synthetic dataset with strong privacy guarantees.
+  authors: Haoyue Ping, Julia Stoyanovich and Bill Howe
+  link:
+    url: http://dl.acm.org/citation.cfm?doid=3085504.3091117
+    display: SSDBM, 2017
+  highlight: 1
+
+- title: "Fides: A platform for responsible data science"
+  image: fides.png
+  description:  We see a need for a data sharing and collaborative analytics platform with features to encourage (and in some cases, enforce) best practices at all stages of the data science lifecycle. We propose Fides, in the context of urban analytics, outlining a systems research agenda in responsible data science.
+  authors: Bill Howe, Julia Stoyanovichi, Serge Abiteboul, Gerome Miklau, Arnaud Sahuguet and Gerhard Weikum
+  link:
+    url: http://dl.acm.org/citation.cfm?doid=3085504.3085530
+    display: SSDBM, 2017
+  highlight: 1
+
+
+- title: "Diversity in Big Data: A Review"
+  authors: Marina Drosou, HV Jagadish, Evaggelia Pitoura and Julia Stoyanovich
+  link:
+    url: https://www.liebertpub.com/doi/abs/10.1089/big.2016.0054
+    display:  Big Data Special Issue on Social and Technical Trade-Offs, June 2017
+
+- title: "Temporal Graph Algebra"
+  authors: Vera Z. Moffitt and Julia Stoyanovich
+  link:
+    url: https://dl.acm.org/citation.cfm?id=3122838
+    display:  DBPL, 2017
+
+- title: "Synthetic data for social good"
+  authors: Bill Howe, Julia Stoyanovich, Haoyue Ping, Bernease Herman, and Matt Gee
+  link:
+    url: https://arxiv.org/abs/1710.08874
+    display:  Proceedings of Data for Good Exchange (D4GX), 2017
+
+- title: "Zooming in on NYC taxi data with Portal"
+  authors: Julia Stoyanovich, Matthew Gilbride and Vera Z. Moffitt
+  link:
+    url: https://arxiv.org/abs/1709.06176
+    display:  Proceedings of Data Science for Social Good (DSSG), 2017
+
+- title: "Measuring fairness in ranked outputs"
+  authors: Ke Yang and Julia Stoyanovich
+  link:
+    url: "http://dl.acm.org/citation.cfm?doid=3085504.3085526"
+    display:  SSDBM, 2017
+
+- title: "A database framework for probabilistic preferences"
+  authors: Batya Kenig, Benny Kimelfeld, Haoyue Ping and Julia Stoyanovich
+  link:
+    url: https://stoyanovich.github.io/documents/amw2017
+    display:  AMW, 2017
+
+- title: "Workload-driven learning of Mallows mixtures with pairwise preference data"
+  authors: Julia Stoyanovich, Lovro Ilijasic and Haoyue Ping
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2932202
+    display:  WebDB, 2016, co-located with ACM SIGMOD 2016
+
+- title: "Data, responsibly: fairness, neutrality and transparency in data analysis"
+  authors: Julia Stoyanovich, Serge Abiteboul and Gerome Miklau
+  link:
+    url: https://stoyanovich.github.io/documents/DataResponsibly
+    display:  EDBT, 2016
+
+- title: "Data, responsibly (Dagstuhl Seminar 16291)"
+  authors: Serge Abiteboul, Gerome Miklau, Julia Stoyanovich and Gerhard Weikum
+  link:
+    url: "http://drops.dagstuhl.de/opus/volltexte/2016/6764/pdf/dagrep_v006_i007_p042_s16291"
+    display:  Schloss Dagstuhl Seminar Report, 2016
+
+- title: "Towards a distributed infrastructure for evolving graph analytics"
+  authors: Vera Zaychik Moffitt and Julia Stoyanovich
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2889290
+    display:  TempWeb 2016, co-located with WWW 2016
+
+- title: "Collaborative Access Control in WebdamLog"
+  authors: Vera Zaychik Moffitt, Julia Stoyanovich, Serge Abiteboul, and Gerome Miklau
+  link:
+    url: http://doi.acm.org/10.1145/2723372.2749433
+    display:  SIGMOD 2015
+
+- title: "Analyzing Crowd Rankings"
+  authors: Julia Stoyanovich, Marie Jacob, Xuemei Gong
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2767110
+    display:  WebDB 2015
+
+- title: "A System for Management and Analysis of Preference Data"
+  authors: Marie Jacob, Benny Kimelfeld, Julia Stoyanovich
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2732998
+    display:  PVLDB 7(12), 2014
+
+- title: "Search and Result Presentation in Scientific Workflow Repositories"
+  authors: Susan Davidson, Xiaocheng Huang, Julia Stoyanovich, Xiaojie Yuan
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2484847
+    display:  SSDBM, 2013
+
+- title: "Learning to Explore Scientific Workflow Repositories (short paper)"
+  authors: Julia Stoyanovich, Paramveer Dhillon, Brian Lyons, Susan Davidson
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2484848
+    display:  SSDBM, 2013
+
+- title: "Learning Feature Weights from Positive Cases"
+  authors: Sid Gunawardena, Rosina Weber, Julia Stoyanovich
+  link:
+    url: "http://link.springer.com/chapter/10.1007%2F978-3-642-39056-2_10"
+    display:  ICCBR, 2013
+
+- title: "Understanding Local Structure in Ranked Datasets (vision paper)"
+  authors: Julia Stoyanovich, Sihem Amer-Yahia, Susan Davidson, Marie Jacob, Tova Milo
+  link:
+    url: https://stoyanovich.github.io/documents/cidr13
+    display:  CIDR, 2013
+
+- title: "Rule-Based Application Development using Webdamlog (demonstration)"
+  authors: Serge Abiteboul, Emilien Antoine, Gerome Miklau, Julia Stoyanovich, and Jules Testard
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2465251
+    display:  SIGMOD, 2013
+
+- title: "Introducing Access Control in Webdamlog (invited talk by Serge Abiteboul)"
+  authors: Serge Abiteboul, Emilien Antoine, Gerome Miklau, Julia Stoyanovich, and Vera Zaychik Moffitt
+  link:
+    url: https://arxiv.org/abs/1307.8269
+    display:  DBPL, 2013
+
+- title: "Viewing the Web as a Distributed Knowledge Base"
+  authors: Serge Abiteboul, Emilien Antoine and Julia Stoyanovich
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6228064
+    display:  ICDE, 2012
+
+- title: "Putting Lipstick on Pig: Enabling Database-style Workflow Provenance"
+  authors: Yael Amsterdamer, Susan Davidson, Daniel Deutch, Tova Milo, Julia Stoyanovich, and Val Tannen
+  link:
+    url: https://dl.acm.org/citation.cfm?id=2095693
+    display:  PVLDB 5(4), 2011
+
+- title: "Deriving Probabilistic Databases with Inference Ensembles"
+  authors: Julia Stoyanovich, Susan Davidson, Tova Milo, and Val Tannen
+  link:
+    url: https://stoyanovich.github.io/documents/probdb
+    display:  ICDE, 2011
+
+- title: "Keyword Search in Workflow Repositories with Access Control"
+  authors: Susan Davidson, Soohyun Lee and Julia Stoyanovich
+  link:
+    url: https://stoyanovich.github.io/documents/AMW2011
+    display:  AMW, 2011
+
+- title: "Making Interval-Based Clustering Rank-Aware"
+  authors: Julia Stoyanovich, Sihem Amer-Yahia and Tova Milo
+  link:
+    url: https://stoyanovich.github.io/documents/barac
+    display:  EDBT, 2011
+
+- title: "On Provenance and Privacy"
+  authors: Susan Davidson, Sanjeev Khanna, Sudeepa Roy, Julia Stoyanovich, Val Tannen, and Yi Chen
+  link:
+    url: https://stoyanovich.github.io/documents/icdt11_keynote
+    display:  ICDT, 2011
+
+- title: "Enabling Privacy in Provenance-Aware Workflow Systems"
+  authors: Susan Davidson, Sanjeev Khanna, Sudeepa Roy, Julia Stoyanovich, Val Tannen, Yi Chen, Tova Milo
+  link:
+    url: https://stoyanovich.github.io/documents/cidr11
+    display:  CIDR, 2011
+
+- title: "AnnotCompute: annotation-based exploration and meta-analysis of genomics experiments"
+  authors: Jie Zheng, Julia Stoyanovich, Elisabetta Manduchi, Junmin Liu, Christian J. Stoeckert, Jr
+  link:
+    url: https://stoyanovich.github.io/documents/AnnotCompute
+    display:  The Journal of Biological Databases and Curation (Database), 2011
+
+- title: "SkylineSearch: Semantic Ranking and Result Visualization for PubMed (demonstration)"
+  authors: Julia Stoyanovich, Mayur Lodha, William Mee and Kenneth A. Ross
+  link:
+    url: https://stoyanovich.github.io/documents/sigmod2011
+    display:  SIGMOD, 2011
+
+- title: "Semantic Ranking and Result Visualization for Life Sciences Publications"
+  authors: Julia Stoyanovich, William Mee and Kenneth A. Ross
+  link:
+    url: https://stoyanovich.github.io/documents/ontorank
+    display:  ICDE, 2010
+
+- title: "Exploring Repositories of Scientific Workflows"
+  authors: Julia Stoyanovich, Ben Taskar, and Susan Davidson
+  link:
+    url: https://stoyanovich.github.io/documents/wands
+    display:  WANDS, 2010
+
+
+- title: "Rank-Aware Clustering for Structured Datasets"
+  authors: Julia Stoyanovich and Sihem Amer-Yahia
+  link:
+    url: https://stoyanovich.github.io/documents/cikm_0218
+    display:  CIKM, 2009
+
+- title: "Rank-Aware Clustering for Structured Datasets"
+  authors: Julia Stoyanovich and Sihem Amer-Yahia
+  link:
+    url: "http://mice.cs.columbia.edu/getTechreport.php?techreportID=624&amp;format=pdf"
+    display:  Columbia University Technical Report cucs-043-089, 2009
+
+- title: "Efficient Network-Aware Search in Collaborative Tagging Sites"
+  authors: Sihem Amer-Yahia, Michael Benedikt, Laks Lakshmanan and Julia Stoyanovich
+  link:
+    url: https://stoyanovich.github.io/documents/milieu
+    display:  VLDB, 2008
+
+
+- title: "From del.icio.us to x.qui.site: Recommendations in Social Tagging Sites (demonstration)"
+  authors: Sihem Amer-Yahia, Alban Galland, Julia Stoyanovich, Cong Yu
+  link:
+    url: https://stoyanovich.github.io/documents/xquisite-demo
+    display:  SIGMOD, 2008
+
+- title: "Schema Polynomials and Applications"
+  authors: Kenneth A. Ross and Julia Stoyanovich
+  link:
+    url: https://stoyanovich.github.io/documents/p404-ross
+    display:  EDBT, 2008
+
+- title: "Leveraging Tagging to Model User Interests in del.icio.us"
+  authors: Julia Stoyanovich, Sihem Amer-Yahia, Cameron Marlow, Cong Yu
+  link:
+    url: https://stoyanovich.github.io/documents/Tagging_Interest
+    display:  AAAI Spring Symposium on Social Information Processing (AAAI-SIP 2008)
+
+- title: "MutaGeneSys: Making Diagnostic Predictions Based on Genome-Wide Genotype Data in Association Studies"
+  authors: Julia Stoyanovich and Itsik Pe'er
+  link:
+    url: "http://bioinformatics.oxfordjournals.org/cgi/reprint/btm587?ijkey=ERaP6zI18d2Fpbi&amp;keytype=ref"
+    display:  Bioinformatics 2008
+
+- title: "ReoptSMART: A Learning Query Plan Cache"
+  authors: Julia Stoyanovich, Kenneth A. Ross, Jun Rao, Wei Fan, Volker Markl, Guy Lohman
+  link:
+    url: "http://mice.cs.columbia.edu/getTechreport.php?techreportID=538&amp;format=pdf"
+    display:  Columbia University Technical Report cucs-023-08, 2008.
+
+- title: "EntityAuthority: Semantically Enriched Graph-Based Authority Propagation"
+  authors: Julia Stoyanovich, Srikanta Bedathur, Klaus Berberich, Gerhard Weikum
+  link:
+    url: https://stoyanovich.github.io/documents/EntityAuthority
+    display:  WebDB, 2007
+
+
+- title: "A Faceted Query Engine Applied to Archaeology"
+  authors: Kenneth A. Ross, Angel Janevski, Julia Stoyanovich
+  link:
+    url: http://intarch.ac.uk/journal/issue21/stoyanovich_toc.html
+    display:  Internet Archaeology 21, April 2007
+
+- title: "A Faceted Query Engine Applied to Archaeology (demonstration)"
+  authors: Kenneth A. Ross, Angel Janevski, Julia Stoyanovich
+  link:
+    url: https://stoyanovich.github.io/documents/vldb-demo
+    display:  VLDB, 2005
+
+- title: "Symmetric Relations and Cardinality Bounded Multisets in Database Systems"
+  authors: Kenneth A. Ross and Julia Stoyanovich
+  link:
+    url: https://stoyanovich.github.io/documents/symm
+    display:  VLDB, 2004
