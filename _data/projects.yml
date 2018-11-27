@@ -2,7 +2,7 @@
   photo: responsibly_project.png
   info: Fairness, neutrality and transparency in data
   description: If not used responsibly, big data technology can propel economic inequality, destabilize global markets and affirm systemic bias. While the potential opportunity of big data techniques is well accepted, the necessity of using these techniques responsibly should be discussed. In the society we envision, data and data analysis are fair, transparent and available equally to all.
-  url: dataresponsibly.github.io
+  url: https://dataresponsibly.github.io/
   number_pubs: 3
   pub1:
     url: https://arxiv.org/abs/1804.07890
