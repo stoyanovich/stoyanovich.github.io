@@ -60,5 +60,21 @@
   funding2: "BSF Grant No. 2014391 Aggregation Methods for Partial Preferences, 9/1/2015 - 8/31/2017, (US PI: Stoyanovich, Israel PI: Kimelfeld)"
   funding3: "NSF Grant No. 1539856 Aggregation Methods for Partial Preferences (supplements BSF Grant No. 2014391), 9/1/2015 - 8/31/2017, (PI: Stoyanovich)"
 
+- name: "DBCOMSOC: Databases Meet Computational Social Choice"
+  photo: dbcomsoc.png
+  info: Databases Meet Computational Social Choice
+  description: Social choice underlies the equitable and efficient operation of a society. How does one aggregate preferences of individuals, arriving at a society-wide consensus? This question has been the subject of intense debate throughout history, dating as far back as ancient Greece, and, in the past two decades, has led to the development of computational social choice - an interdisciplinary area of research and practice that combines insights from mathematics, logic, economics, and computer science. One of the main foci of computational social choice are the algorithmic aspects of determining actual or potential winners in a poll or in an election. The main aim of this project is to develop a unifying framework that brings together preferences, rules, outcomes, contextual information, and database query languages.
+  url: http://dbcomsoc.org/
+  number_pubs: 2
+  pub1:
+    url: https://www.ijcai.org/proceedings/2018/44
+    display: IJCAI 2018
+  pub2:
+    url: http://dbcomsoc.org/docs/paper32_Compl_aggr_camera_ready.pdf
+    display: RAMICS 2018
+  number_funding: 3
+  funding1: "NSF Grant No. 1814152 'NSF-BSF: III: Small: Collaborative Research: Databases Meet Computational Social Choice', 7/15/2018 - 6/30/2021 (PI: Kolaitis)"
+  funding2: "NSF Grant No. 1813888 'NSF-BSF: III: Small: Collaborative Research: Databases Meet Computational Social Choice', 7/15/2018 - 6/30/2021 (PI: Stoyanovich)"
+  funding3: "BSF Grant No. 2017753 'Databases Meet Computational Social Choice', 7/15/2018 - 6/30/2021 (PI: Kimelfeld)"
 
 
