@@ -10,7 +10,7 @@
 
 - name: <a href="https://keyang0923.github.io">Ke Yang</a>
   photo: Yang.jpg
-  info: Ph.D. student
+  info: Ph.D. candidate
   email: ky630@nyu.edu
   org: New York University
   number_educ: 1
@@ -18,7 +18,7 @@
 
 - name: <a href="https://haoyueping.github.io">Haoyue Ping</a>
   photo: Ping.jpg
-  info: Ph.D. student
+  info: Ph.D. candidate
   email: hp1326@nyu.edu
   org: New York University
   number_educ: 1
@@ -26,8 +26,16 @@
 
 - name: Amir Pouya Aghasadeghi
   photo: Amir.jpg
-  info: Ph.D. student
+  info: Ph.D. candidate
   email: apa374@nyu.edu
+  org: New York University
+  number_educ: 1
+  education1:
+
+- name: <a href="https://www.linkedin.com/in/kunalrelia">Kunal Bharatbhai Relia</a>
+  photo: Kunal.jpg
+  info: Ph.D. student
+  email: krelia@nyu.edu
   org: New York University
   number_educ: 1
   education1:
