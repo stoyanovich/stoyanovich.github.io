@@ -68,6 +68,13 @@
     url: https://rdcu.be/b3xJe
     display:  "Nature Machine Intelligence, April 2020"
     
+- title: "Zooming out on an Evolving Graph"
+  authors: Amir Aghasadeghi, Vera Z. Moffitt, Sebastian Schelter, and Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://doi.org/10.5441/002/edbt.2020.04
+    display:  "Proceedings of EDBT 2020"
+
 - title: "Fairness-Aware Instrumentation of Preprocessing Pipelines for Machine Learning"
   authors: Ke Yang, Biao Huang, Julia Stoyanovich, and Sebastian Schelter
   number_link: 1
