@@ -11,10 +11,14 @@ permalink: /teaching/
 - New York University
 
     Spring 2021 DS-UA 202:  Responsible Data Science [website](https://dataresponsibly.github.io/courses/)
+    
     Spring 2021 DS-GA 1017: Responsible Data Science [website](https://dataresponsibly.github.io/courses/)
+    
     Spring 2019, 2020, DS-GA 3001.009: Responsible Data Science [website](https://dataresponsibly.github.io/courses/)
-    Fall 2020, 2021, CS-GY 6087: Principles of Database Systems [syllabus](documents/BigDataA_Syllabus.pdf)
-    Fall 2019, CS-GY 6513: Big Data [syllabus](documents/CS6083A_Syllabus.pdf)
+    
+    Fall 2020, 2021, CS-GY 6087: Principles of Database Systems [syllabus](../documents/BigDataA_Syllabus.pdf)
+    
+    Fall 2019, CS-GY 6513: Big Data [syllabus](../documents/CS6083A_Syllabus.pdf)
     
 - CCI at Drexel University
 
