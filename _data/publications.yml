@@ -1,3 +1,142 @@
+- title: "Teaching Responsible Data Science: Charting New Pedagogical Territory"
+  authors: Julia Stoyanovich and Armanda Lewis
+  number_link: 1
+  link:
+    url: https://rdcu.be/ciMw9
+    display:  "International Journal of Artificial Intelligence in Education (IJAIED), 2021"
+
+- title: "Causal Intersectionality and Fair Ranking"
+  authors: Ke Yang, Joshua R. Loftus, and Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://drops.dagstuhl.de/opus/volltexte/2021/13875/
+    display: "Proceedings of FORC"
+    
+- title: "Lightweight Inspection of Data Preprocessing in Native Machine Learning Pipelines"
+  authors: Stefan Grafberger, Julia Stoyanovich, and Sebastian Schelter
+  number_link: 1
+  link:
+   url: http://cidrdb.org/cidr2021/papers/cidr2021%5C_paper27.pdf
+   display: "Proceedings of CIDR 2021"
+   
+- title: "Taming Technical Bias in Machine Learning Pipelines"
+  authors: Sebastian Schelter and Julia Stoyanovich
+  number_link: 1
+  link:
+   url: http://sites.computer.org/debull/A20dec/p39.pdf
+   display: "IEEE Data Engineering Bulletin 43(4): 2020"
+    
+- title: "Fairness in Ranking: A Survey"
+  authors: Meike Zehlike, Ke Yang, and Julia Stoyanovich
+  number_link: 1
+  link:
+     url: https://arxiv.org/abs/2103.14000
+     display: arXiv
+
+- title: "Impact Remediation: Optimal Interventions to Reduce Inequality"
+  authors: Lucius E. J. Bynum, Joshua R. Loftus, and Julia Stoyanovich
+  number_link: 1
+  link:
+     url: https://arxiv.org/abs/2107.00593
+     display: arXiv
+     
+- title: "Fairness as Equality of Opportunity: Normative Guidance from Political Philosophy"
+  authors: Falaah Arif Khan, Eleni Manis, and Julia Stoyanovich
+  number_link: 1
+  link:
+     url: https://arxiv.org/abs/2106.08259
+     display: arXiv
+
+- title: "Fairness and Friends"
+  authors: Falaah Arif Khan, Eleni Manis, and Julia Stoyanovich
+  number_link: 1
+  link:
+     url: https://dataresponsibly.github.io/documents/FairnessandFriends_slides.pdf
+     display: "ACM FAccT (2021), tutorial slides"
+     
+- title: "Responsible Data Management"
+  authors: Julia Stoyanovich, Bill Howe, and H.V. Jagadish
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/mirror.pdf
+    display:  "PVLDB 13(12): 3474-3489 (2020), invited paper accompanying VLDB 2020 keynote presentation"
+    
+- title: "The Imperative of Interpretable Machines"
+  authors: Julia Stoyanovich, Jay J. Van Bavel, and Tessa V. West
+  number_link: 1
+  link:
+    url: https://rdcu.be/b3xJe
+    display:  "Nature Machine Intelligence, April 2020"
+    
+- title: "Fairness-Aware Instrumentation of Preprocessing Pipelines for Machine Learning"
+  authors: Ke Yang, Biao Huang, Julia Stoyanovich, and Sebastian Schelter
+  number_link: 1
+  link:
+    url: https://hilda.io/2020/proceedings/HILDA2020_paper9.pdf
+    display:  "Proceedings of HILDA 2020 (an ACM SIGMOD workshop)"
+    
+- title: "FairPrep: Promoting Data to a First-Class Citizen in Studies on Fairness-Enhancing Interventions"
+  authors: Sebastian Schelter, Yuxuan He, Jatin Khilnani, and Julia Stoyanovich
+  number_link: 3
+  link1:
+    url: https://dataresponsibly.github.io/documents/fairprep_short.pdf
+    display:  "EDBT 2020 (short paper)"
+  link2:
+    url: https://arxiv.org/abs/1911.12587
+    display:  "arXiv, November 2019"
+  link3:
+    url: https://dataresponsibly.github.io/documents/FairPrep_EDBTtalk.mp4
+    display:  "EDBT talk video"
+
+- title: "Balanced Ranking with Diversity Constraints"
+  authors: Ke Yang, Vasilis Gkatzelis, and Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://www.ijcai.org/proceedings/2019/0836.pdf
+    display:  "Proceedings of IJCAI 2019"
+   
+- title: "Designing Fair Ranking Schemes"
+  authors: Abolfazl Asudeh, H. V. Jagadish, Julia Stoyanovich, and Gautam Das
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/p1259-asudeh.pdf
+    display:  "Proceedings of ACM SIGMOD, 2019"
+
+- title: "MithraRanking: A System for Responsible Ranking Design (demonstration)"
+  authors: Yifan Guan, Abolfazl Asudeh, Pranav Mayuram, H. V. Jagadish, Julia Stoyanovich, Gerome Miklau, and Gautam Das
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/mde783-guanA.pdf
+    display:  "Proceedings of ACM SIGMOD, 2019"   
+
+- title: "Transparency, Fairness, Data Protection, Neutrality: Data Management Challenges in the Face of New Regulation"
+  authors: Serge Abiteboul and Julia Stoyanovich
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/a15-abiteboul.pdf
+    display:  "ACM Journal of Data and Information Quality, 2019"
+    
+- title: "Nutritional Labels for Data and Models"
+  authors: Julia Stoyanovich and Bill Howe
+  number_link: 1
+  link:
+    url: http://sites.computer.org/debull/A19sept/p13.pdf
+    display:  "IEEE Data Engineering Bulletin 42(3): 13-23 (2019)"
+
+- title: "Towards Responsible Data-driven Decision Making in Score-Based Systems"
+  authors: Abolfazl Asudeh, H. V. Jagadish, and Julia Stoyanovich	
+  number_link: 1
+  link:
+    url: http://sites.computer.org/debull/A19sept/p76.pdf
+    display:  "IEEE Data Engineering Bulletin 42(3): 76-87 (2019)"
+    
+- title: "TransFAT: Translating Fairness, Accountably and Transparency into Data Science Practice"
+  authors: Julia Stoyanovich	
+  number_link: 1
+  link:
+    url: http://ceur-ws.org/Vol-2417/paper1.pdf
+    display:  "International Workshop on Processing Information Ethically (PIE@CAiSE) (2019)"  
+    
 - title: "On Obtaining Stable Rankings"
   authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
   link:
