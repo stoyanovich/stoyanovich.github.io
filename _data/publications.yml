@@ -139,9 +139,10 @@
     
 - title: "On Obtaining Stable Rankings"
   authors: Abolfazl Asudeh, H. V. Jagadish, Gerome Miklau, and Julia Stoyanovich
+  number_link: 1
   link:
-    url: https://arxiv.org/abs/1804.10990
-    display:  "CoRR abs/1804.10990 (2018)"
+    url: http://www.vldb.org/pvldb/vol12/p237-asudeh.pdf
+    display:  "PVLDB 12(3): 237-250 (2018)"
 
 - title: "Panel: A Debate on Data and Algorithmic Ethics"
   authors: Julia Stoyanovich, Bill Howe, H. V. Jagadish, Gerome Miklau
