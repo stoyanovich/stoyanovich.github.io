@@ -36,6 +36,6 @@ Having graduated from college, I spent 5 years in the start-up industry, as a so
 Email: [stoyanovich@nyu.edu](stoyanovich@nyu.edu)
 
 Offices:
- - Center for Data Science, 60 5th Ave, New York, NY, 10011. [Map](https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.73502,-73.9969961,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802)
+ - Room 703, Center for Data Science, 60 5th Ave, New York, NY, 10011. [Map](https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.73502,-73.9969961,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802)
  - Room 1101, 370 Jay Street, Brooklyn, NY, 11201. [Map](https://www.google.nl/maps/place/2+Metro+Tech/@40.693368,-73.9879088,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a4b06d1cfdf:0x3b2de5d4512b1bfd!8m2!3d40.693364!4d-73.9857147?hl=en")
 
