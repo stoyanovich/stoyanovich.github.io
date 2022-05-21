@@ -9,7 +9,7 @@ permalink: /
 # Bio
 
 I'm an Associate Professor in the [Department of Computer Science and Engineering at the Tandon School of Engineering](https://engineering.nyu.edu/),
-and the [Center for Data Science](https://cds.nyu.edu/), [New York University](https://www.nyu.edu/).
+and the [Center for Data Science](https://cds.nyu.edu/), [New York University](https://www.nyu.edu/).  I also direct the NYU Tandon Center for Responsible AI, [NYU R/AI](https://airesponsibly.com/) and am a member of Visualization and Data Analytics Research Center, [VIDA](https://vida.engineering.nyu.edu/).
 
 My research focuses on responsible data management and analysis: on operationalizing fairness, diversity, transparency, and data protection
 in all stages of the data  acquisition and processing lifecycle. I established the Data, Responsibly consortium, and served on the New York City Automated Decision Systems Task Force, by mayoral appointment.
