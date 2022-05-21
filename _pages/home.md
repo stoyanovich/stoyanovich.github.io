@@ -20,7 +20,9 @@ I received my M.S. and Ph.D. degrees in Computer Science from Columbia Universit
 
 # Research
 
-My research is in the area of data and knowledge management. My current work is in scope of three projects, see [Projects]({{ site.baseurl }}/projects).
+My research is in the area of data and knowledge management. 
+
+<!-- My current work is in scope of three projects, see [Projects]({{ site.baseurl }}/projects). -->
 
 
  - [Data, Responsibly](http://dataresponsibly.com): ethical data management and analysis
